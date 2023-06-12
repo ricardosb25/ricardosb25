@@ -1,7 +1,5 @@
 ### Olá! Sou o Ricardo, um estudante de programação!
 
-**Github Stats:** a API provavelmente saiu do ar nesse período.
-
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosb25&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
