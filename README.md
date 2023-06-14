@@ -1,5 +1,6 @@
 ### Olá! Sou o Ricardo, um estudante de programação!
 
+![Ricardo  GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardosb25&show_icons=true&theme=great-gatsby)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosb25&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
