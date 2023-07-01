@@ -9,7 +9,8 @@
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ricardo-C" height="30" width="40" src="https://icon-library.com/images/programming-icon-png/programming-icon-png-11.jpg">
-  
+  <img align="center" alt="Ricardo-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/typescript_original_logo_icon_146317.png">
+  <img align="center" alt="Ricardo-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_wordmark_logo_icon_146375.png">
 </div>
 .
 
