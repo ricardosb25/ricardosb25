@@ -7,10 +7,10 @@
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ricardo-C" height="30" width="40" src="https://icon-library.com/images/programming-icon-png/programming-icon-png-11.jpg">
   <img align="center" alt="Ricardo-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_typescript_official_icon_130107.png">
   <img align="center" alt="Ricardo-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_logo_icon_146374.png">
+  <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ricardo-C" height="30" width="40" src="https://icon-library.com/images/programming-icon-png/programming-icon-png-11.jpg">
 </div>
 .
 
